@@ -24,4 +24,4 @@ Aral is a robust web application developed to streamline the management of onlin
   - **JSON/AJAX:** Enabling smooth data exchange and enhanced user interactions.
  
 ## Project Images:
-<img src="./aral.png" width="400">
+<img src="./aral.png">
